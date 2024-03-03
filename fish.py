@@ -8,7 +8,7 @@
 ## (6) pause minecraft, run program, start minecraft
 
 # Constants
-threshold = 20 # sound threshold
+threshold = 15 # sound threshold
 
 # Imports
 import pyautogui
